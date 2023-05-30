@@ -1,0 +1,20 @@
+.odd-numbers{
+    background-color: rgb(248, 175, 244);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd-numbers.special {
+    color: blue;
+    font-size: 36px;
+}
+    
+#first-even{
+    color: blue;
+    font-size: 36px;
+}
+
+#second-even{
+    background-color: rgb(146, 250, 160);
+    font-size: 24px;
+    font-weight: bold;
+}
